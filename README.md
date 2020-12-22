@@ -7,11 +7,11 @@ Essa POC é um projeto AZURE
 
 ## Instalação
 
-Siga o tutorial [instalação](https://www.pulumi.com/docs/get-started/azure/begin/){:target="_blank" rel="noopener"} para instalar o Pulumi.
+Siga o tutorial [instalação](https://www.pulumi.com/docs/get-started/azure/begin/)para instalar o Pulumi.
 
 Para utilizar o Pulumi precisa ter o Azure CLI (command line interface) vinculado à uma conta no Azure.
 
-Para instalar o Azure CLI siga esse [tutorial](https://docs.microsoft.com/pt-br/cli/azure/install-azure-cli){:target="_blank" rel="noopener"}
+Para instalar o Azure CLI siga esse [tutorial](https://docs.microsoft.com/pt-br/cli/azure/install-azure-cli)
 
 **Importante** tem que ter uma assinatura **ATIVA** no Azure
 
@@ -41,4 +41,4 @@ pulumi destroy
 
 ## Comandos
 
-Para verificar todos os comandos disponíveis de automação de infra que o Pulumi dispões para o AZURE, acesso o linl [commandos pulumi](https://www.pulumi.com/docs/reference/pkg/azure/){:target="_blank" rel="noopener"}
+Para verificar todos os comandos disponíveis de automação de infra que o Pulumi dispões para o AZURE, acesso o linl [commandos pulumi](https://www.pulumi.com/docs/reference/pkg/azure/)
