@@ -1,0 +1,3 @@
+name: poc_pulumi
+runtime: dotnet
+description: A minimal Azure C# Pulumi program
